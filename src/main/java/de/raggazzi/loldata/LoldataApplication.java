@@ -1,4 +1,4 @@
-package de.raggazzi.loldata.loldata;
+package de.raggazzi.loldata;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
